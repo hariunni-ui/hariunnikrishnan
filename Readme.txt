@@ -1,6 +1,6 @@
 Thanks for downloading this template!
 
-Template Name: Folio
-Template URL: https://bootstrapmade.com/folio-bootstrap-portfolio-template/
+Template Name: protfolio
+Template URL: https:harikrishan-portfolio-template/
 Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
