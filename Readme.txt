@@ -1,7 +1,7 @@
 Thanks for downloading this template!
 
 Template Name: protfolio
-Template URL: https://harikrishan-portfolio-github.io/portfolio/
+Template URL: file:///C:/Users/WSSPC-004/Desktop/profile/hari/index.html
 
 Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+License:file:///C:/Users/WSSPC-004/Desktop/profile/hari/index.html
